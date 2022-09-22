@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
-"""
-"""
+
+#  __authors__ = Elena Khramenkova
+#  __institution__ = TU Delft
+#
 import numpy as np
 import math
 np.set_printoptions(suppress=True)
